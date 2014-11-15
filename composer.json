@@ -1,0 +1,33 @@
+{
+    "name": "ekstazi/yii2-grid-tools",
+    "description": "Tools for grid widget",
+    "keywords": ["yii", "extension", "grid", "sortable", "nested"],
+    "homepage": "https://github.com/Ekstazi/yii2-grid-tools",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maxim Furtuna",
+            "email": "ekstazyst@gmail.com",
+            "homepage": "http://furtuna.name/",
+            "role": "Creator"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/ekstazi/yii2-grid-tools/issues",
+        "wiki": "https://github.com/ekstazi/yii2-grid-tools/wiki",
+        "source": "https://github.com/ekstazi/yii2-grid-tools"
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ekstazi\\grid-tools\\": "src/"
+        }
+    },
+    "extra": {
+        //"bootstrap": "ekstazi\\crud\\Bootstrap"
+    }
+}
