@@ -28,6 +28,5 @@
         }
     },
     "extra": {
-        //"bootstrap": "ekstazi\\crud\\Bootstrap"
     }
 }
