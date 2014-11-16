@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ekstazi\\grid-tools\\": "src/"
+            "ekstazi\\widgets\\grid\\": "src/"
         }
     },
     "extra": {
